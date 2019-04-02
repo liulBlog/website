@@ -11,3 +11,4 @@
 <a href="https://router.vuejs.org/zh/">10.vue-router教程</a>。<br>
 <a href="https://www.git-scm.com/book/zh/v2">11.git详细教程</a><br>
 <a href="http://datav.aliyun.com/tools/atlas/#&lat=33.54139466898275&lng=104.2822265625&zoom=4">12.地图json获取</a><br>
+<a href="http://www.jq22.com/jquery-info236">13.页面滚动动画插件</a><br>
